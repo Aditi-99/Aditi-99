@@ -7,7 +7,7 @@ body
 {
 background-image:url('bg2.jpg');
 background-repeat:no-repeat;
-background-size:cover;
+background-size:2000px;
  }
 .box
 {
@@ -20,8 +20,8 @@ color:white;
 }
 .box-img
 {
- border-radius:60%;
- width:150px;
+ border-radius:100%;
+ width:80px;
 }
 h2
 {
